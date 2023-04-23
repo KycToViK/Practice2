@@ -1,0 +1,16 @@
+C:\Users\mahal\source\repos\V10_12\dop1\bin\Debug\dop1.exe.config
+C:\Users\mahal\source\repos\V10_12\dop1\bin\Debug\dop1.exe
+C:\Users\mahal\source\repos\V10_12\dop1\bin\Debug\dop1.pdb
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\dop1.csproj.AssemblyReference.cache
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\dop1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\MainWindow.g.cs
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\App.g.cs
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\dop1_MarkupCompile.cache
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\dop1_MarkupCompile.lref
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\MainWindow.baml
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\dop1.g.resources
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\dop1.Properties.Resources.resources
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\dop1.csproj.GenerateResource.cache
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\dop1.csproj.CoreCompileInputs.cache
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\dop1.exe
+C:\Users\mahal\source\repos\V10_12\dop1\obj\Debug\dop1.pdb

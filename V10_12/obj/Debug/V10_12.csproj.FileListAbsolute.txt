@@ -1,0 +1,16 @@
+C:\Users\mahal\source\repos\V10_12\V10_12\bin\Debug\V10_12.exe.config
+C:\Users\mahal\source\repos\V10_12\V10_12\bin\Debug\V10_12.exe
+C:\Users\mahal\source\repos\V10_12\V10_12\bin\Debug\V10_12.pdb
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\V10_12.csproj.AssemblyReference.cache
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\V10_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\MainWindow.g.cs
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\App.g.cs
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\V10_12_MarkupCompile.cache
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\V10_12_MarkupCompile.lref
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\MainWindow.baml
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\V10_12.g.resources
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\V10_12.Properties.Resources.resources
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\V10_12.csproj.GenerateResource.cache
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\V10_12.csproj.CoreCompileInputs.cache
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\V10_12.exe
+C:\Users\mahal\source\repos\V10_12\V10_12\obj\Debug\V10_12.pdb

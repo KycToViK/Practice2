@@ -1,0 +1,16 @@
+C:\Users\mahal\source\repos\V10_12\dop2-2\bin\Debug\dop2-2.exe.config
+C:\Users\mahal\source\repos\V10_12\dop2-2\bin\Debug\dop2-2.exe
+C:\Users\mahal\source\repos\V10_12\dop2-2\bin\Debug\dop2-2.pdb
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\dop2-2.csproj.AssemblyReference.cache
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\dop2-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\MainWindow.g.cs
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\App.g.cs
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\dop2-2_MarkupCompile.cache
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\dop2-2_MarkupCompile.lref
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\MainWindow.baml
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\dop2-2.g.resources
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\dop2_2.Properties.Resources.resources
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\dop2-2.csproj.GenerateResource.cache
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\dop2-2.csproj.CoreCompileInputs.cache
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\dop2-2.exe
+C:\Users\mahal\source\repos\V10_12\dop2-2\obj\Debug\dop2-2.pdb
